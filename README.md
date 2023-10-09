@@ -28,17 +28,22 @@ cd ProtonVPN
 ```
 
 ## Installation process
-1. Extract the file from the ProtonVPN folder:
+1. Install ProtonVPN from the website (using "wget"):
+```bash
+wget https://repo.protonvpn.com/debian/dists/stable/main/binary-all/protonvpn-stable-release_1.0.3-2_all.deb
+```
+
+2. Extract the file from the ProtonVPN folder:
 ```bash
 sudo dpkg -i protonvpn-stable-release_1.0.3-2_all.deb
 ```
 
-2. Update the packages once the file is extracted:
+3. Update the packages once the file is extracted:
 ```bash
 sudo apt-get update
 ```
 
-3. Install ProtonVPN:
+4. Install ProtonVPN:
 ```bash
 sudo apt-get install protonvpn
 ```
