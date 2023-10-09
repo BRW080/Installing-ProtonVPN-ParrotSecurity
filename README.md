@@ -37,7 +37,7 @@ chmod +x install.sh
 
 2. Run the script once with execute permissions:
 ```bash
-bash install.sh
+sudo bash install.sh
 ```
 
 3. Extract the file from the ProtonVPN folder:
