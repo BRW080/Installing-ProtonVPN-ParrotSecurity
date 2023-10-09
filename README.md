@@ -1,5 +1,15 @@
 # ProtonVPN for Linux?
-This is a guide on how to install Proton VPN (Virtual Private Network) on Parrot OS Security operating system. Please note that this guide is specifically for Debian-based distributions.
+Proton VPN es un servicio de red privada virtual (VPN) que te permite proteger tu conexión a internet y acceder a contenido bloqueado o censurado. Proton VPN en Linux es una aplicación oficial que te permite usar Proton VPN en tu sistema operativo Linux, con una interfaz gráfica de usuario y funciones avanzadas como NetShield, Kill Switch y Secure Core.
+
+## Steps before installing ProtonVPN
+1. Have all packages installed according to your Debian Distribution:
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+2. Update the system completely:
+```bash
+sudo apt full-upgrade
+```
 
 ## Steps to install ProtonVPN
 1. Clone the Github repository in terminal (CTRL+ALT+T):
