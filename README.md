@@ -2,7 +2,7 @@
 # ProtonVPN for Linux?
 Proton VPN es un servicio de red privada virtual (VPN) que te permite proteger tu conexión a internet y acceder a contenido bloqueado o censurado. Proton VPN en Linux es una aplicación oficial que te permite usar Proton VPN en tu sistema operativo Linux, con una interfaz gráfica de usuario y funciones avanzadas como NetShield, Kill Switch y Secure Core.
 
-## Steps before installing ProtonVPN
+## Steps before installing ProtonVPN. (The following is based on Debian distributions only):
 1. Have all packages installed according to your Debian Distribution:
 ```bash
 sudo apt update && sudo apt upgrade -y
