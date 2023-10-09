@@ -50,5 +50,7 @@ sudo apt-get update
 sudo apt-get install protonvpn
 ```
 
+5. Start ProtonVPN by pressing where it says "Menu" and search for "ProtonVPN". Enjoy your new VPN on GNU/Linux!
+
 ### Credits:
 Repository created by: SilentShadowMaster@proton.me
