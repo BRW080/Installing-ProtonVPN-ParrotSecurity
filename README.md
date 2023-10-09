@@ -54,4 +54,4 @@ sudo apt-get install protonvpn
 
 ### Credits:
 1. Repository created by: SilentShadowMaster@proton.me
-2. Sitio web de ProtonVPN: https://protonvpn.com/support/official-linux-vpn-debian/
+2. ProtonVPN Website: https://protonvpn.com/support/official-linux-vpn-debian/
