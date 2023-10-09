@@ -41,3 +41,6 @@ sudo apt-get update
 ```bash
 sudo apt-get install protonvpn
 ```
+
+### Credits:
+Repository created by: SilentShadowMaster@proton.me
