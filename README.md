@@ -22,7 +22,7 @@ cd ProtonVPN
 sudo dpkg -i protonvpn-stable-release_1.0.3-2_all.deb
 ```
 
-### ¡EXTRA!
+# ¡EXTRA!
 Si hay dependencias qué no se cumplen, el comando anterior dará un mensaje de error. Puede solucionar las dependencias usando "apt":
 ```bash
 sudo apt-get install -f
